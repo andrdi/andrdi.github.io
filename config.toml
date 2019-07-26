@@ -1,0 +1,7 @@
+baseURL = "http://andrdi.ru/"
+languageCode = "ru-ru"
+title = "AndrDI.ru"
+publishDir = "docs"
+theme = "techdoc"
+newContentEditor = "vim"
+pygmentsStyle = "native"
