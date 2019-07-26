@@ -4,7 +4,17 @@
   
   <url>
     <loc>http://andrdi.ru/</loc>
-    <priority>0</priority>
+    <lastmod>2019-07-26T14:41:49+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://andrdi.ru/windows-services/</loc>
+    <lastmod>2019-07-26T14:35:45+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://andrdi.ru/windows-services/active-directory/</loc>
+    <lastmod>2019-07-26T14:34:48+05:00</lastmod>
   </url>
   
   <url>
