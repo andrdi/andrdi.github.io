@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Сайт на HUGO</title>
+    <title>Справочник котиков on Сайт на HUGO</title>
     <link>https://andrdi.ru/</link>
-    <description>Recent content on Сайт на HUGO</description>
+    <description>Recent content in Справочник котиков on Сайт на HUGO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
+    <lastBuildDate>Tue, 30 Jul 2019 01:00:02 +0500</lastBuildDate>
     
 	<atom:link href="https://andrdi.ru/index.xml" rel="self" type="application/rss+xml" />
     
