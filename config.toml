@@ -1,0 +1,6 @@
+baseURL = "https://andrdi.ru/"
+languageCode = "ru-ru"
+title = "Сайт на HUGO"
+theme = "techdoc"
+newContentEditor = "vim"
+publishDir = "docs"
