@@ -5,4 +5,3 @@ publishDir = "docs"
 theme = "techdoc"
 newContentEditor = "vim"
 pygmentsStyle = "native"
-uglyurls = true

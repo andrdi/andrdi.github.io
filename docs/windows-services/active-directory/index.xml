@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Active Directory on AndrDI.ru</title>
-    <link>https://andrdi.ru/windows-services/active-directory.html</link>
+    <link>https://andrdi.ru/windows-services/active-directory/</link>
     <description>Recent content in Active Directory on AndrDI.ru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
@@ -13,30 +13,30 @@
     
     <item>
       <title>DCCP2</title>
-      <link>https://andrdi.ru/windows-services/active-directory/dccp9.html</link>
+      <link>https://andrdi.ru/windows-services/active-directory/dccp9/</link>
       <pubDate>Fri, 26 Jul 2019 14:34:48 +0500</pubDate>
       
-      <guid>https://andrdi.ru/windows-services/active-directory/dccp9.html</guid>
+      <guid>https://andrdi.ru/windows-services/active-directory/dccp9/</guid>
       <description>DCCP2 index page
  &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>DCCP3</title>
-      <link>https://andrdi.ru/windows-services/active-directory/dccp3.html</link>
+      <link>https://andrdi.ru/windows-services/active-directory/dccp3/</link>
       <pubDate>Fri, 26 Jul 2019 14:34:48 +0500</pubDate>
       
-      <guid>https://andrdi.ru/windows-services/active-directory/dccp3.html</guid>
+      <guid>https://andrdi.ru/windows-services/active-directory/dccp3/</guid>
       <description>DCCP3 index page
  &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>DCCP9</title>
-      <link>https://andrdi.ru/windows-services/active-directory/dccp2.html</link>
+      <link>https://andrdi.ru/windows-services/active-directory/dccp2/</link>
       <pubDate>Fri, 26 Jul 2019 14:34:48 +0500</pubDate>
       
-      <guid>https://andrdi.ru/windows-services/active-directory/dccp2.html</guid>
+      <guid>https://andrdi.ru/windows-services/active-directory/dccp2/</guid>
       <description>DCCP9 index page
  &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
