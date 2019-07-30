@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cats on Сайт на HUGO</title>
+    <link>https://andrdi.ru/dogs/</link>
+    <description>Recent content in Cats on Сайт на HUGO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Tue, 30 Jul 2019 10:07:07 +0500</lastBuildDate>
+    
+	<atom:link href="https://andrdi.ru/dogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>White</title>
+      <link>https://andrdi.ru/dogs/white/</link>
+      <pubDate>Tue, 30 Jul 2019 10:08:15 +0500</pubDate>
+      
+      <guid>https://andrdi.ru/dogs/white/</guid>
+      <description>Ut morbi tincidunt augue interdum velit euismod in. Nunc mattis enim ut tellus elementum sagittis vitae et. Nullam eget felis eget nunc lobortis mattis aliquam faucibus. Nulla pharetra diam sit amet nisl suscipit adipiscing. Faucibus et molestie ac feugiat sed. Commodo odio aenean sed adipiscing diam. Massa id neque aliquam vestibulum morbi. Nibh venenatis cras sed felis eget velit aliquet sagittis id. Erat pellentesque adipiscing commodo elit at imperdiet dui accumsan sit.</description>
+    </item>
+    
+    <item>
+      <title>Black</title>
+      <link>https://andrdi.ru/dogs/black/</link>
+      <pubDate>Tue, 30 Jul 2019 10:06:15 +0500</pubDate>
+      
+      <guid>https://andrdi.ru/dogs/black/</guid>
+      <description>Eget magna fermentum iaculis eu non diam phasellus vestibulum. Nisl tincidunt eget nullam non nisi est. Pellentesque habitant morbi tristique senectus et netus. Consequat mauris nunc congue nisi vitae suscipit tellus. Pellentesque adipiscing commodo elit at. Vitae elementum curabitur vitae nunc sed velit dignissim sodales. Ut pharetra sit amet aliquam id diam maecenas. Nisl pretium fusce id velit. Egestas maecenas pharetra convallis posuere morbi. Volutpat diam ut venenatis tellus in metus vulputate eu.</description>
+    </item>
+    
+  </channel>
+</rss>
