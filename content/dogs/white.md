@@ -1,10 +1,10 @@
 ---
 title: "White"
-categories: [cats]
+categories: [dogs]
 date: 2019-07-30T10:08:15+05:00
 lastmod: 2019-07-30T10:08:15+05:00
 draft: true
-description: "White cats"
+description: "White dogs"
 weight: 5
 ---
 

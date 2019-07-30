@@ -1,10 +1,10 @@
 ---
 title: "Black"
-categories: [cats]
+categories: [dogs]
 date: 2019-07-30T10:06:15+05:00
 lastmod: 2019-07-30T10:06:15+05:00
 draft: true
-description: "Black cats"
+description: "Black dogs"
 weight: 5
 ---
 
