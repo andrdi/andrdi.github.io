@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Справочник котиков on Сайт на HUGO</title>
-    <link>https://andrdi.ru/</link>
-    <description>Recent content in Справочник котиков on Сайт на HUGO</description>
+    <title>Cats on Сайт на HUGO</title>
+    <link>https://andrdi.ru/cats/</link>
+    <description>Recent content in Cats on Сайт на HUGO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 30 Jul 2019 01:00:02 +0500</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2019 10:07:07 +0500</lastBuildDate>
     
-	<atom:link href="https://andrdi.ru/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://andrdi.ru/cats/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,15 +27,6 @@
       
       <guid>https://andrdi.ru/cats/black/</guid>
       <description>Eget magna fermentum iaculis eu non diam phasellus vestibulum. Nisl tincidunt eget nullam non nisi est. Pellentesque habitant morbi tristique senectus et netus. Consequat mauris nunc congue nisi vitae suscipit tellus. Pellentesque adipiscing commodo elit at. Vitae elementum curabitur vitae nunc sed velit dignissim sodales. Ut pharetra sit amet aliquam id diam maecenas. Nisl pretium fusce id velit. Egestas maecenas pharetra convallis posuere morbi. Volutpat diam ut venenatis tellus in metus vulputate eu.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://andrdi.ru/about/</link>
-      <pubDate>Tue, 30 Jul 2019 10:03:55 +0500</pubDate>
-      
-      <guid>https://andrdi.ru/about/</guid>
-      <description>Ut diam quam nulla porttitor massa id neque aliquam. In hendrerit gravida rutrum quisque non tellus orci. Etiam tempor orci eu lobortis elementum nibh tellus molestie nunc. Hendrerit gravida rutrum quisque non. Pharetra diam sit amet nisl suscipit adipiscing. Pulvinar elementum integer enim neque volutpat. Sit amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Penatibus et magnis dis parturient montes nascetur ridiculus mus mauris.</description>
     </item>
     
   </channel>

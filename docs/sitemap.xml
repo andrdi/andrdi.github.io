@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://andrdi.ru/cats/white/</loc>
+    <lastmod>2019-07-30T10:08:15+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrdi.ru/cats/</loc>
+    <lastmod>2019-07-30T10:07:07+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrdi.ru/cats/black/</loc>
+    <lastmod>2019-07-30T10:06:15+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrdi.ru/about/</loc>
+    <lastmod>2019-07-30T10:03:55+05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andrdi.ru/</loc>
     <lastmod>2019-07-30T01:00:02+05:00</lastmod>
   </url>
