@@ -2,6 +2,7 @@
 title: "About"
 date: 2019-07-30T10:03:55+05:00
 lastmod: 2019-07-30T10:03:55+05:00
+categories: []
 draft: true
 description: "Ut diam quam nulla porttitor massa id neque aliquam. In hendrerit gravida rutrum quisque non tellus orci. Etiam tempor orci eu lobortis elementum nibh tellus molestie nunc."
 weight: 5

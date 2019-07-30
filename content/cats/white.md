@@ -1,5 +1,6 @@
 ---
 title: "White"
+categories: [cats]
 date: 2019-07-30T10:08:15+05:00
 lastmod: 2019-07-30T10:08:15+05:00
 draft: true
