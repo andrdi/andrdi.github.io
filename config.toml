@@ -4,4 +4,5 @@ title = "Сайт на HUGO"
 theme = "techdoc"
 newContentEditor = "vim"
 publishDir = "docs"
+disableKinds = ["RSS"]
 pygmentsStyle = "native"
